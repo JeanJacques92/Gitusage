@@ -22,4 +22,10 @@ public class myfirstclass {
 		System.out.println();
 	}
 
+	public static void conflict(String[] args) {
+		// TODO Auto-generated method stub
+		//for clonflict
+
+	}
+	
 }
