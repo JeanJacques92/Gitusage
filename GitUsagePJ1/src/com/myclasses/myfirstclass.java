@@ -16,5 +16,10 @@ public class myfirstclass {
 		// TODO Auto-generated method stub
 
 	}
+	
+	public void forconflict() {
+		
+		System.out.println();
+	}
 
 }
