@@ -16,5 +16,10 @@ public class gitusage {
 		System.out.println("user 1 add");
 
 	}
+	
+	public void doitagain() {
+		
+		//here is the code o f the method
+	}
 
 }
