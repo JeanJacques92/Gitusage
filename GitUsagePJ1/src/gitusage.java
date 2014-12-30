@@ -20,7 +20,10 @@ public class gitusage {
 	public void doitagain() {
 		//try now to push
 		String addconflict;
+		String addother;
+		addother ="ABCD";
 		String power;
+		power= "XXYZ";
 		//here is the code o f the method
 	}
 
