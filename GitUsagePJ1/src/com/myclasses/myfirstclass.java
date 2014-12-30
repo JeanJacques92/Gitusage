@@ -25,6 +25,9 @@ public class myfirstclass {
 	public static void conflict(String[] args) {
 		// TODO Auto-generated method stub
 		//for clonflict
+		
+		// try to commit 1
+		// try to commit 2
 
 	}
 	
