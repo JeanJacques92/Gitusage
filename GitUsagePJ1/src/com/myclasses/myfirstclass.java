@@ -33,6 +33,7 @@ public class myfirstclass {
 	
 	public void addnewmethod (String arg1){
 		System.out.println("arg 1");
+		System.out.println("now try to push");
 		
 	}
 }
