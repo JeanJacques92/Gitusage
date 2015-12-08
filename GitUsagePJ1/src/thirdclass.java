@@ -1,5 +1,5 @@
 public class thirdclass {
   
   
-  System.out.println("test server automatic commit");
+  System.out.println("test server automatic commit 2");
 }
