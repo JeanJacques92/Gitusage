@@ -1,5 +1,5 @@
 public class thirdclass {
   
   
-  System.out.println("test");
+  System.out.println("test server");
 }
